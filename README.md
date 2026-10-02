@@ -1,20 +1,15 @@
 <!-- HEADER BANNER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rajeshwaran&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20MERN%20Stack%20%7C%20Front%20End%20Enthusiast&descAlignY=55&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rajeshwaran&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" />
 </div>
 
 <!-- TYPING ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&height=60&lines=Hi+I'm+Rajeshwaran+M;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%9A%80+React.js+%7C+Node.js+%7C+TypeScript;%F0%9F%97%84%EF%B8%8F+MongoDB+%7C+PostgreSQL+%7C+SQL;%F0%9F%93%B1+PWA+Developer;%F0%9F%94%90+OAuth+%7C+JWT+%7C+Role-Based+Auth;%E2%9A%A1+DSA+%7C+Problem+Solving;%F0%9F%8C%9F+Open+to+Software+Engineering+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=900&height=60&lines=Hi+I'm+Rajeshwaran;%F0%9F%92%BB+Full-Stack+Developer;%F0%9F%9A%80+JavaScript+%7C+React.js+%7C+Node.js+%7C+Express;%F0%9F%97%84%EF%B8%8F+MongoDB+%7C+PostgreSQL+%7C+SQL;%E2%9A%A1+Cpp+programming+%7C+DSA+%7C+Problem+Solving;%F0%9F%8C%9F+Open+to+Software+Engineering+Opportunities" alt="Typing SVG" />
 </div>
 
-<br/>
-
-
 ---
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
-
 <img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```yaml
@@ -31,52 +26,106 @@ Interests   : Full Stack Dev, Big Data, Data Engineering
 Fun Fact    : I debug with console.log and I'm proud 
 ```
 
-<br clear="right"/>
 
 ---
+## 📊 Skill Proficiency
+<div align="center">
+<table>
+<tr>
+<td width="35%" valign="top">
 
+| Skill | Proficiency |
+|---|---|
+| JavaScript | ⭐⭐⭐⭐⭐ 85% |
+| React.js | ⭐⭐⭐⭐☆ 82% |
+| Node.js & Express | ⭐⭐⭐⭐☆ 78% |
+| C++ & DSA | ⭐⭐⭐⭐⭐ 88% |
+| HTML / CSS | ⭐⭐⭐⭐⭐ 90% |
+| Git & GitHub | ⭐⭐⭐⭐⭐ 85% |
+| CI/CD | ⭐⭐⭐☆☆ 65% |
+| MongoDB | ⭐⭐⭐⭐☆ 80% |
+| MySQL | ⭐⭐⭐☆☆ 42% |
+
+</td>
+<td width="75%" align="center" valign="middle">
+<div align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeshwarantask&theme=radical&hide_border=true&layout=donut&langs_count=8" />
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+---
 ## 🛠️ Tech Stack & Skills
 
-### 🔤 Languages
-<p>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+<div align="center">
+<table>
+<tr>
+<td><b>🔤 Languages</b></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+</td>
+</tr>
 
-### 🎨 Frontend
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+<tr>
+<td><b>🎨 Frontend</b></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+</td>
+</tr>
 
-### ⚙️ Backend
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-</p>
+<tr>
+<td><b>⚙️ Backend</b></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+</td>
+</tr>
 
-### 🗄️ Databases
-<p>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+<tr>
+<td><b>🗄️ Databases</b></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+</td>
+</tr>
 
-### 🐘 Big Data & ML
-<p>
-<img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+<tr>
+<td><b>🐘 Big Data & ML</b></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+</td>
+</tr>
 
-### 🛠️ Tools
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+<tr>
+<td><b>🛠️ Tools</b></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" />
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -86,29 +135,6 @@ Fun Fact    : I debug with console.log and I'm proud
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rajeshwarantask&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=Rajeshwarantask&theme=radical&hide_border=true" />
-
-</div>
-
-<div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeshwarantask&theme=radical&hide_border=true&layout=donut&langs_count=8" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rajeshwarantask&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&v=2)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Rajesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rajeshwarantask&bg_color=0d1117&color=ff79c6&line=bd93f9&point=ff5555&area=true&hide_border=true)](https://github-readme-activity-graph.vercel.app)
 
 </div>
 
@@ -126,19 +152,6 @@ Fun Fact    : I debug with console.log and I'm proud
 | 🗄️ Database | MongoDB, Mongoose |
 | 🔐 Security | JWT, bcrypt, Role-based access |
 | 📊 Dashboard | Real-time loan status & analytics |
-
----
-
-
-
-### 🌐 Advanced Software Development Projects
-> *Industry-focused full-stack solutions*
-
-| Feature | Tech Used |
-|---|---|
-| 🏗️ Architecture | MVC Pattern, RESTful Design |
-| 🎨 UI/UX | React.js, Bootstrap, Responsive |
-| 🔗 API | REST API, JSON, Postman tested |
 
 ---
 
@@ -160,21 +173,6 @@ Fun Fact    : I debug with console.log and I'm proud
 
 ---
 
-## 📊 Skill Proficiency
-
-```text
-HTML / CSS         ██████████████████████░░   90%
-C++ & DSA          █████████████████████░░░   88%
-JavaScript         ████████████████████░░░░   85%
-Git & GitHub       ████████████████████░░░░   85%
-React.js           ████████████████████░░░░   82%
-MongoDB            ████████████████████░░░░   80%
-Node.js & Express  ███████████████████░░░░░   78%
-MySQL              ██████████████████░░░░░░   72%
-Hadoop / Spark     ████████████████░░░░░░░░   65%
-```
-
----
 
 ## 🌐 Connect With Me
 
@@ -188,16 +186,8 @@ Hadoop / Spark     ████████████████░░░░�
 
 </div>
 
----
-
 <!-- FOOTER WAVE -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 </div>
 
-<div align="center">
-
-### ⭐ Show some love by starring my repos! ⭐
-*"First, solve the problem. Then, write the code." – John Johnson*
-
-</div>
