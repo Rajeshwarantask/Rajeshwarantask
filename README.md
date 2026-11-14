@@ -11,7 +11,11 @@
 
 ---
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
-<img align="right" alt="Coding GIF" width="360" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+<img align="right" alt="Coding GIF"
+     width="370"
+     height="250"
+     src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```yaml
 Name        : Rajeshwaran
@@ -24,7 +28,7 @@ Big Data    : Hadoop, Apache Spark, ML
 Cert        : NPTEL Big Data — Elite + Silver (75%)
 Status      : Actively Looking for Opportunities 🟢
 Interests   : Full Stack Dev, Big Data, Data Engineering
-Fun Fact    : I debug with console.log and I'm proud 
+Fun Fact    : I debug with console.log and I'm proud
 ```
 
 
