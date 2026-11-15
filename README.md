@@ -1,16 +1,12 @@
+
 <!-- HEADER BANNER -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rajeshwaran&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1200&color=F75C7E&center=true&vCenter=true&width=1000&height=40&lines=Hi%2C+I'm+Rajeshwaran;B.Tech+Information+Technology+Graduate+%7C+9.25+CGPA;Skilled+in+JavaScript+%7C+React+%7C+Node.js+%7C+Express.js;Proficient+in+C%2B%2B+%7C+Strong+Problem-Solving+Skills;Focused+on+Building+Reliable+%26+Scalable+Software;Solving+Practical+Engineering+Problems" />
 </div>
 
-<!-- TYPING ANIMATION -->
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1200&color=F75C7E&center=true&vCenter=true&width=1000&height=70&lines=Hi%2C+I'm+Rajeshwaran;B.Tech+Information+Technology+Graduate+%7C+9.25+CGPA;Skilled+in+JavaScript+%7C+React+%7C+Node.js+%7C+Express.js;Proficient+in+C%2B%2B+%7C+Strong+Problem-Solving+Skills;Focused+on+Building+Reliable+%26+Scalable+Software;Solving+Practical+Engineering+Problems" />
-</div>
-
----
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+
 
 <img align="right" alt="Coding GIF"
      width="370"
