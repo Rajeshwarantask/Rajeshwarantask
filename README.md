@@ -14,15 +14,16 @@
      src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```yaml
-Name        : Rajeshwaran
-Role        : Software Developer
-Location    : Chennai, Tamil Nadu
+Name         : Rajeshwaran
+Role         : Software Developer
+Location     : Chennai, Tamil Nadu
+Languages    : C++, JavaScript
 Technologies : React.js, Node.js, Express.js, MongoDB, PostgreSQL
-Languages   : C++, JavaScript
-Strengths   : DSA, Problem Solving, Software Development
-Focus       : Full Stack Development, Backend Systems, API Development
-Status      : Actively Looking for Opportunities 🟢
-Currently   : Building Projects and Exploring New Technologies
+Strengths    : DSA, Problem Solving, Software Development
+Focus        : Full Stack Development, Backend Systems, API Development
+Currently    : Building Projects and Exploring New Technologies
+Status       : Actively Looking for Opportunities 🟢
+Experience   : Fresher
 ```
 
 
