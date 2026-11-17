@@ -16,15 +16,13 @@
 ```yaml
 Name        : Rajeshwaran
 Role        : Software Developer
-Location    : Tamil Nadu, India 🇮🇳
-Stack       : MERN (MongoDB, Express, React, Node)
-Languages   : C++, JavaScript, HTML, CSS
-Strengths   : DSA, Problem Solving, Scalable Apps
-Big Data    : Hadoop, Apache Spark, ML
-Cert        : NPTEL Big Data — Elite + Silver (75%)
+Location    : Chennai, Tamil Nadu
+Stack       : MERN & PERN (MongoDB, Express, React, Node.js, PostgreSQL)
+Languages   : C++, JavaScript
+Strengths   : DSA, Problem Solving, Software Development
+Focus       : Full Stack Development, API Design, Software Engineering
 Status      : Actively Looking for Opportunities 🟢
-Interests   : Full Stack Dev, Big Data, Data Engineering
-Fun Fact    : I debug with console.log and I'm proud
+Currently   : Building Projects and Exploring New Technologies
 ```
 
 
@@ -40,9 +38,7 @@ Fun Fact    : I debug with console.log and I'm proud
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
 </td>
 </tr>
 
@@ -52,6 +48,10 @@ Fun Fact    : I debug with console.log and I'm proud
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
 </td>
 </tr>
 
@@ -78,24 +78,11 @@ Fun Fact    : I debug with console.log and I'm proud
 </tr>
 
 <tr>
-<td><b>Big Data & ML</b></td>
-<td>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="40" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-</td>
-</tr>
-
-<tr>
 <td><b>Tools & Methodologies</b></td>
 <td>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" />
 &nbsp;
@@ -109,7 +96,6 @@ Fun Fact    : I debug with console.log and I'm proud
 </table>
 </div>
 
----
 ## Skill Proficiency
 <div align="center">
 <table>
@@ -119,14 +105,14 @@ Fun Fact    : I debug with console.log and I'm proud
 | Skill | Proficiency |
 |---|---|
 | JavaScript | ⭐⭐⭐⭐⭐ 85% |
-| React.js | ⭐⭐⭐⭐☆ 82% |
-| Node.js & Express | ⭐⭐⭐⭐☆ 78% |
-| C++ & DSA | ⭐⭐⭐⭐⭐ 88% |
-| HTML / CSS | ⭐⭐⭐⭐⭐ 90% |
+| React.js | ⭐⭐⭐⭐☆ 75% |
+| Node.js & Express | ⭐⭐⭐⭐☆ 75% |
+| C++ & DSA | ⭐⭐⭐⭐⭐ 80% |
+| HTML / CSS | ⭐⭐⭐⭐⭐ 85% |
 | Git & GitHub | ⭐⭐⭐⭐⭐ 85% |
 | CI/CD | ⭐⭐⭐☆☆ 65% |
 | MongoDB | ⭐⭐⭐⭐☆ 80% |
-| MySQL | ⭐⭐⭐☆☆ 42% |
+| MySQL | ⭐⭐⭐☆☆ 40% |
 
 </td>
 <td width="75%" align="center" valign="middle">
@@ -140,7 +126,6 @@ Fun Fact    : I debug with console.log and I'm proud
 </table>
 </div>
 
----
 
 ## Featured Projects
 
@@ -177,8 +162,6 @@ Fun Fact    : I debug with console.log and I'm proud
 </td>
 </tr>
 </table>
-
----
 
 ## Certifications
 
