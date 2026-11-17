@@ -9,7 +9,7 @@
 
 
 <img align="right" alt="Coding GIF"
-     width="370"
+     width="340"
      height="250"
      src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -17,10 +17,10 @@
 Name        : Rajeshwaran
 Role        : Software Developer
 Location    : Chennai, Tamil Nadu
-Stack       : MERN & PERN (MongoDB, Express, React, Node.js, PostgreSQL)
+Technologies : React.js, Node.js, Express.js, MongoDB, PostgreSQL
 Languages   : C++, JavaScript
 Strengths   : DSA, Problem Solving, Software Development
-Focus       : Full Stack Development, API Design, Software Engineering
+Focus       : Full Stack Development, Backend Systems, API Development
 Status      : Actively Looking for Opportunities 🟢
 Currently   : Building Projects and Exploring New Technologies
 ```
