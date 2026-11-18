@@ -1,8 +1,8 @@
 
 <!-- HEADER BANNER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rajeshwaran&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" />
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1200&color=F75C7E&center=true&vCenter=true&width=1000&height=40&lines=Hi%2C+I'm+Rajeshwaran;B.Tech+Information+Technology+Graduate+%7C+9.25+CGPA;Skilled+in+JavaScript+%7C+React+%7C+Node.js+%7C+Express.js;Proficient+in+C%2B%2B+%7C+Strong+Problem-Solving+Skills;Focused+on+Building+Reliable+%26+Scalable+Software;Solving+Practical+Engineering+Problems" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Rajeshwaran&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1200&color=FF5100&center=true&vCenter=true&width=1000&height=40&lines=Hi%2C+I'm+Rajeshwaran;B.Tech+Information+Technology+Graduate+%7C+9.25+CGPA;Skilled+in+JavaScript+%7C+React+%7C+Node.js+%7C+Express.js;Proficient+in+C%2B%2B+%7C+Strong+Problem-Solving+Skills;Focused+on+Building+Reliable+%26+Scalable+Software;Solving+Practical+Engineering+Problems" />
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
@@ -98,22 +98,53 @@ Experience   : Fresher
 </div>
 
 ## Skill Proficiency
+
 <div align="center">
 <table>
 <tr>
 <td width="35%" valign="top">
 
-| Skill | Proficiency |
-|---|---|
-| JavaScript | ⭐⭐⭐⭐⭐ 85% |
-| React.js | ⭐⭐⭐⭐☆ 75% |
-| Node.js & Express | ⭐⭐⭐⭐☆ 75% |
-| C++ & DSA | ⭐⭐⭐⭐⭐ 80% |
-| HTML / CSS | ⭐⭐⭐⭐⭐ 85% |
-| Git & GitHub | ⭐⭐⭐⭐⭐ 85% |
-| CI/CD | ⭐⭐⭐☆☆ 65% |
-| MongoDB | ⭐⭐⭐⭐☆ 80% |
-| MySQL | ⭐⭐⭐☆☆ 40% |
+
+
+<table>
+  <tr>
+    <td><b>JavaScript</b></td>
+    <td><img src="https://placehold.co/170x10/98E303/98E303.png" width="144" height="10" style="vertical-align: middle;" /><img src="https://placehold.co/170x10/ffffff/ffffff.png" width="26" height="10" style="vertical-align: middle;" /></td>
+  </tr>
+  <tr>
+    <td><b>React.js</b></td>
+    <td><img src="https://placehold.co/170x10/98E303/98E303.png" width="128" height="10" style="vertical-align: middle;" /><img src="https://placehold.co/170x10/ffffff/ffffff.png" width="42" height="10" style="vertical-align: middle;" /></td>
+  </tr>
+  <tr>
+    <td><b>Node.js & Express</b></td>
+    <td><img src="https://placehold.co/170x10/98E303/98E303.png" width="128" height="10" style="vertical-align: middle;" /><img src="https://placehold.co/170x10/ffffff/ffffff.png" width="42" height="10" style="vertical-align: middle;" /></td>
+  </tr>
+  <tr>
+    <td><b>C++ & DSA</b></td>
+    <td><img src="https://placehold.co/170x10/98E303/98E303.png" width="136" height="10" style="vertical-align: middle;" /><img src="https://placehold.co/170x10/ffffff/ffffff.png" width="34" height="10" style="vertical-align: middle;" /></td>
+  </tr>
+  <tr>
+    <td><b>HTML / CSS</b></td>
+    <td><img src="https://placehold.co/170x10/98E303/98E303.png" width="144" height="10" style="vertical-align: middle;" /><img src="https://placehold.co/170x10/ffffff/ffffff.png" width="26" height="10" style="vertical-align: middle;" /></td>
+  </tr>
+  <tr>
+    <td><b>Git & GitHub</b></td>
+    <td><img src="https://placehold.co/170x10/98E303/98E303.png" width="136" height="10" style="vertical-align: middle;" /><img src="https://placehold.co/170x10/ffffff/ffffff.png" width="34" height="10" style="vertical-align: middle;" /></td>
+  </tr>
+  <tr>
+    <td><b>CI/CD</b></td>
+    <td><img src="https://placehold.co/170x10/98E303/98E303.png" width="110" height="10" style="vertical-align: middle;" /><img src="https://placehold.co/170x10/ffffff/ffffff.png" width="60" height="10" style="vertical-align: middle;" /></td>
+  </tr>
+  <tr>
+    <td><b>MongoDB</b></td>
+    <td><img src="https://placehold.co/170x10/98E303/98E303.png" width="136" height="10" style="vertical-align: middle;" /><img src="https://placehold.co/170x10/ffffff/ffffff.png" width="34" height="10" style="vertical-align: middle;" /></td>
+  </tr>
+  <tr>
+    <td><b>MySQL</b></td>
+    <td><img src="https://placehold.co/170x10/98E303/98E303.png" width="68" height="10" style="vertical-align: middle;" /><img src="https://placehold.co/170x10/ffffff/ffffff.png" width="102" height="10" style="vertical-align: middle;" /></td>
+  </tr>
+</table>
+
 
 </td>
 <td width="75%" align="center" valign="middle">
@@ -183,7 +214,6 @@ Experience   : Fresher
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajeshwaran9025/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajeshwarantask)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajeshwaran9585rajesh@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rajeshwaran-portfolio.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rajeshwaran-98)
@@ -192,6 +222,6 @@ Experience   : Fresher
 
 <!-- FOOTER WAVE -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer&animation=twinkling"/>
 </div>
 
