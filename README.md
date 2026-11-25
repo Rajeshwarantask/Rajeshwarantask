@@ -137,11 +137,11 @@ Experience   : Fresher
   </tr>
   <tr>
     <td><b>MongoDB</b></td>
-    <td><img src="https://placehold.co/170x10/98E303/98E303.png" width="136" height="10" style="vertical-align: middle;" /><img src="https://placehold.co/170x10/ffffff/ffffff.png" width="34" height="10" style="vertical-align: middle;" /></td>
+    <td><img src="https://placehold.co/170x10/98E303/98E303.png" width="110" height="10" style="vertical-align: middle;" /><img src="https://placehold.co/170x10/ffffff/ffffff.png" width="60" height="10" style="vertical-align: middle;" /></td>
   </tr>
   <tr>
-    <td><b>MySQL</b></td>
-    <td><img src="https://placehold.co/170x10/98E303/98E303.png" width="68" height="10" style="vertical-align: middle;" /><img src="https://placehold.co/170x10/ffffff/ffffff.png" width="102" height="10" style="vertical-align: middle;" /></td>
+    <td><b>MySQL & PostgreSQL</b></td>
+    <td><img src="https://placehold.co/170x10/98E303/98E303.png" width="115" height="10" style="vertical-align: middle;" /><img src="https://placehold.co/170x10/ffffff/ffffff.png" width="55" height="10" style="vertical-align: middle;" /></td>
   </tr>
 </table>
 
